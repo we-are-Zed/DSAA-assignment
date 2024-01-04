@@ -1,4 +1,1 @@
-# DSAA-lab0
-This is just a record of my homework time
-week1——finished(middle)
-week2——finished(a little hard)
+计系对外宣称三大硬课之一，名不虚传
